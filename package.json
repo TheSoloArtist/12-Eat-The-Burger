@@ -9,15 +9,15 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/GrissomErick/Eat-Da-Burger.git"
+      "url": "git+https://github.com/TheSoloArtist/12-Eat-The-Burger"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/GrissomErick/Eat-Da-Burger/issues"
+      "url": "https://github.com/TheSoloArtist/12-Eat-The-Burger/issues"
     },
-    "homepage": "https://github.com/GrissomErick/Eat-Da-Burger#readme",
+    "homepage": "https://github.com/TheSoloArtist/12-Eat-The-Burger#Readme",
     "dependencies": {
       "body-parser": "^1.18.2",
       "express": "^4.16.3",
